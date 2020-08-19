@@ -1,0 +1,28 @@
+import tensorflow as tf
+
+model = tf.keras.models.Sequential()
+model.add(tf.keras.layers.Conv2D(filters=64, kernel_size=3, strides=1, activation="relu", padding="same",
+                                 input_shape=[224, 224, 3]))
+model.add(tf.keras.layers.Conv2D(filters=64, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.MaxPool2D(pool_size=2, strides=2))
+model.add(tf.keras.layers.Conv2D(filters=128, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=128, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.MaxPool2D(pool_size=2, strides=2))
+model.add(tf.keras.layers.Conv2D(filters=256, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=256, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=256, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.MaxPool2D(pool_size=2, strides=2))
+model.add(tf.keras.layers.Conv2D(filters=512, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=512, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=512, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.MaxPool2D(pool_size=2, strides=2))
+model.add(tf.keras.layers.Conv2D(filters=512, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=512, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.Conv2D(filters=512, kernel_size=3, strides=1, activation="relu", padding="same"))
+model.add(tf.keras.layers.MaxPool2D(pool_size=2, strides=2))
+model.add(tf.keras.layers.Flatten())
+model.add(tf.keras.layers.Dense(4096, activation="relu"))
+model.add(tf.keras.layers.Dense(4096, activation="relu"))
+model.add(tf.keras.layers.Dense(1000, activation="softmax"))
+model.summary()
+

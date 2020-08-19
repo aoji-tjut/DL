@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae171e78-6360-4efa-83d1-84b2f7ab85fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZYn37DqeDE3WnNUymxryv0yvZH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.main-tf2.0">
+    <configuration name="HandwrittenDigitRecognition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HandwrittenDigitRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandwrittenDigitRecognition/HandwrittenDigitRecognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ImageStyleConversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageStyleConversion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageStyleConversion/ImageStyleConversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main-tf2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HandwrittenDigitRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandwrittenDigitRecognition/main-tf2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main-tf2.0" />
+        <item itemvalue="Python.ImageStyleConversion" />
+        <item itemvalue="Python.HandwrittenDigitRecognition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae171e78-6360-4efa-83d1-84b2f7ab85fb" name="Default Changelist" comment="" />
+      <created>1585024692608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585024692608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="303" key="GridCell.Tab.-1.bottom" timestamp="1585199893019">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.-1.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585199893019" />
+    <state width="1419" height="303" key="GridCell.Tab.-1.center" timestamp="1585199893018">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.-1.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585199893018" />
+    <state width="1419" height="303" key="GridCell.Tab.-1.left" timestamp="1585199893017">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.-1.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585199893017" />
+    <state width="1419" height="303" key="GridCell.Tab.-1.right" timestamp="1585199893018">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.-1.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585199893018" />
+    <state width="1419" height="303" key="GridCell.Tab.0.bottom" timestamp="1585220110004">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585220110004" />
+    <state width="1419" height="303" key="GridCell.Tab.0.center" timestamp="1585220110003">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585220110003" />
+    <state width="1419" height="303" key="GridCell.Tab.0.left" timestamp="1585220110002">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585220110002" />
+    <state width="1419" height="303" key="GridCell.Tab.0.right" timestamp="1585220110004">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585220110004" />
+    <state width="1390" height="275" key="GridCell.Tab.1.bottom" timestamp="1585200016852">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016852" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.23.1440.826/1440.23.1440.877@1440.23.1440.877" timestamp="1585199888881" />
+    <state width="1390" height="275" key="GridCell.Tab.1.center" timestamp="1585200016849">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016849" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.23.1440.826/1440.23.1440.877@1440.23.1440.877" timestamp="1585199888880" />
+    <state width="1390" height="275" key="GridCell.Tab.1.left" timestamp="1585200016848">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016848" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.23.1440.826/1440.23.1440.877@1440.23.1440.877" timestamp="1585199888879" />
+    <state width="1390" height="275" key="GridCell.Tab.1.right" timestamp="1585200016850">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016850" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.23.1440.826/1440.23.1440.877@1440.23.1440.877" timestamp="1585199888880" />
+    <state width="1390" height="275" key="GridCell.Tab.2.bottom" timestamp="1585200016842">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.2.bottom/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016842" />
+    <state width="1390" height="275" key="GridCell.Tab.2.center" timestamp="1585200016840">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.2.center/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016840" />
+    <state width="1390" height="275" key="GridCell.Tab.2.left" timestamp="1585200016838">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.2.left/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016838" />
+    <state width="1390" height="275" key="GridCell.Tab.2.right" timestamp="1585200016841">
+      <screen x="1440" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="275" key="GridCell.Tab.2.right/0.0.1440.900/1440.0.1440.900@1440.0.1440.900" timestamp="1585200016841" />
+    <state x="61" y="150" width="1390" height="291" key="dock-window-1" timestamp="1585200044210">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="61" y="150" width="1390" height="291" key="dock-window-1/0.23.1440.826/1440.0.1440.900@1440.0.1440.900" timestamp="1585200044210" />
+  </component>
+</project>
