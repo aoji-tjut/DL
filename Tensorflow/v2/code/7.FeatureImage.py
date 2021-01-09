@@ -2,6 +2,9 @@ import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 fashion_mnist = tf.keras.datasets.fashion_mnist
 (X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
 X_train = X_train.reshape(-1, 28, 28, 1) / 225.0
